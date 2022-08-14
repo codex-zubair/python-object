@@ -6,6 +6,7 @@ class objectStuff:
         self.name = name
         self.age = age
 
+        print("working");
         if self.name == "hello":
             print("yes Hello")
 

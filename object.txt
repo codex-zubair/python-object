@@ -15,9 +15,22 @@ constructor.
 
 2. Abstraction
 
+ process of handling complexity by hiding unnecessary information from the user
+
+
+
+# class parent_class:
+# body of parent class
+
+# class child_class( parent_class):
+# body of child class
+
 
 
 3. Inheritance
+
+Calling the object inside the object file
+
 
 
 

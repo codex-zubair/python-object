@@ -4,6 +4,7 @@ import object
 import Encapsulation
 
 
+
 print("hello world")
 print("this is second hello world")
 
@@ -17,3 +18,4 @@ object.objectStuff("rock", 20).do_work()
 
 
 Encapsulation.Derived()
+
