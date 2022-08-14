@@ -35,3 +35,12 @@ Calling the object inside the object file
 
 
 4. Polymorphism
+
+Polymorphism in python defines methods in the child class that have the same name as the methods in the parent class. In inheritance, the child class inherits the methods from the parent class. Also, it is possible to modify a method in a child class that it has inherited from the parent class.
+
+
+
+depends on input whatever needs to run. using one block of code and changing which version of code will be used depending on user input
+
+Take input and do whatever they needs to do work...
+like   object.math(a,b);
